@@ -11,7 +11,9 @@ const { createApp } = Vue
   createApp({
     data() {
       return {
-        message: 'Quadro famoso'
+        artist: 'Keith Haring',
+        picture: 'https://www.travelonart.com/wp-content/uploads/2016/05/keith-1024x683.jpg',
+        picture_name: 'Animals'
       }
     }
   }).mount('#app')

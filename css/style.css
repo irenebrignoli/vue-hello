@@ -3,3 +3,25 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body{
+  background-color: beige;
+  font-family: 'Indie Flower', cursive;
+}
+
+.container{
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  margin: 50px auto;
+  font-size: 40px;
+}
+
+img{
+  width: 100%;
+  border: 6px solid #000;
+}
+
